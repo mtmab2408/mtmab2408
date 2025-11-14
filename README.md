@@ -41,8 +41,14 @@ I enjoy tackling real-world problems through technology and continuously learnin
 
 ### 💼 Experience
 
+**Junior Web Developer — [WeDev Studios]**  
+*March 2025 – May 2025*  
+- Worked closely with design and product teams to develop and deploy responsive, user-friendly features.
+- Assisted in the integration of third-party services and APIs to improve website functionality and performance.
+- Worked on refactoring of existing projects.
+
 **Junior App Developer — [Code Artisan, Abbottabad]**  
-*Jan 2024 – Present*  
+*Jan 2024 – Feb 2025*  
 - Collaborated with cross-functional teams to define, design, and ship new app features.  
 - Integrated third-party APIs and tools to enhance functionality and performance.  
 
